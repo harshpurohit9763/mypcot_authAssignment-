@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370766130608",
+    "project_id": "mypcot-authentication",
+    "storage_bucket": "mypcot-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370766130608:android:41222873d19df1420bfa75",
+        "android_client_info": {
+          "package_name": "com.example.mypcot_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370766130608-t5ov35a0vktoecv2g6a7piijuek45te2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMlecV2OGCIV663x29PZpNtw0a-iuVSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370766130608-t5ov35a0vktoecv2g6a7piijuek45te2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
